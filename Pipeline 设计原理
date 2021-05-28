@@ -1,6 +1,6 @@
 ### Channel 与ChannelPipeline:
 
-　　相信大家都已经知道，在Netty 中每个Channel 都有且仅有一个ChannelPipeline 与之对应，它们的组成关系如下：
+　　相信大家都已经知道，在Netty 中每个Channel 都有且仅有一个ChannelPipeline 与之对应，它们的组成关系如下：123
 
 ![img](https://img2018.cnblogs.com/blog/1383365/201907/1383365-20190721144755019-2146442507.png)
 
